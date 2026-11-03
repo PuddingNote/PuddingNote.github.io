@@ -1,0 +1,44 @@
+{
+  "games": [
+    {
+      "id": "mochislime",
+      "package": "com.onepixel.mochislime",
+      "nameKo": "말랑 슬라임 합치기",
+      "nameEn": "Mochi Slime",
+      "descKo": "톡 떨어뜨리고 합치는 말랑 슬라임 합치기!",
+      "descEn": "Drop and merge squishy slimes!",
+      "iconUrl": "https://puddingnote.github.io/mochislime/icon.png",
+      "released": true
+    },
+    {
+      "id": "mochiblockpuzzle",
+      "package": "com.onepixel.mochiblockpuzzle",
+      "nameKo": "말랑 블록 퍼즐",
+      "nameEn": "Mochi Block Puzzle",
+      "descKo": "말랑한 젤리 블록을 터뜨려 점수를 얻어요!",
+      "descEn": "Clear lines with squishy jelly blocks!",
+      "iconUrl": "https://puddingnote.github.io/mochiblockpuzzle/icon.png",
+      "released": true
+    },
+    {
+      "id": "mochipoke",
+      "package": "com.onepixel.mochipoke",
+      "nameKo": "말랑 콕!",
+      "nameEn": "Mochi Poke!",
+      "descKo": "빙글빙글 도는 말랑이에 롤리팝을 콕콕!",
+      "descEn": "Poke the spinning mochi!",
+      "iconUrl": "https://puddingnote.github.io/mochipoke/icon.png",
+      "released": false
+    },
+    {
+      "id": "mochiescape",
+      "package": "com.onepixel.mochiescape",
+      "nameKo": "말랑 탈출!",
+      "nameEn": "Mochi Escape!",
+      "descKo": "꽉 낀 말랑이를 밀어서 같은 색 문으로 쏙!",
+      "descEn": "Slide squished-in mochi out through same-color doors!",
+      "iconUrl": "https://puddingnote.github.io/mochiescape/icon.png",
+      "released": false
+    }
+  ]
+}
