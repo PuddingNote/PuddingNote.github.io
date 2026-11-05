@@ -39,6 +39,16 @@
       "descEn": "Slide squished-in mochi out through same-color doors!",
       "iconUrl": "https://puddingnote.github.io/mochiescape/icon.png",
       "released": false
+    },
+    {
+      "id": "mochibounce",
+      "package": "com.onepixel.mochibounce",
+      "nameKo": "말랑 바운스",
+      "nameEn": "Mochi Bounce",
+      "descKo": "통통 튀는 말랑이를 타고 하늘 끝까지!",
+      "descEn": "Bounce a squishy mochi up to the sky!",
+      "iconUrl": "https://puddingnote.github.io/mochibounce/icon.png",
+      "released": false
     }
   ]
 }
