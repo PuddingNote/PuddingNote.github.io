@@ -1,5 +1,6 @@
 {
-  "games": [
+  "games":
+  [
     {
       "id": "mochislime",
       "package": "com.onepixel.mochislime",
@@ -29,7 +30,10 @@
       "descEn": "Poke the spinning mochi!",
       "iconUrl": "https://puddingnote.github.io/mochipoke/icon.png",
       "released": false
-    },
+    }
+  ],
+  "_hidden":
+  [
     {
       "id": "mochiescape",
       "package": "com.onepixel.mochiescape",
