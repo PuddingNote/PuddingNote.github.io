@@ -53,6 +53,26 @@
       "descEn": "Bounce a squishy mochi up to the sky!",
       "iconUrl": "https://puddingnote.github.io/mochibounce/icon.png",
       "released": false
+    },
+    {
+      "id": "mochiswing",
+      "package": "com.onepixel.mochiswing",
+      "nameKo": "말랑 스윙",
+      "nameEn": "Mochi Swing",
+      "descKo": "쭉 늘어나는 말랑이로 휘익 스윙해 결승점까지!",
+      "descEn": "Stretch, swing and fly a squishy mochi to the goal!",
+      "iconUrl": "https://puddingnote.github.io/mochiswing/icon.png",
+      "released": false
+    },
+    {
+      "id": "mochislide",
+      "package": "com.onepixel.mochislide",
+      "nameKo": "말랑 슬라이드",
+      "nameEn": "Mochi Slide",
+      "descKo": "쓱 밀어서 같은 말랑이를 합쳐요!",
+      "descEn": "Swipe and merge squishy mochi!",
+      "iconUrl": "https://puddingnote.github.io/mochislide/icon.png",
+      "released": false
     }
   ]
 }
