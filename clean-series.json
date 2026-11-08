@@ -9,7 +9,7 @@
       "descKo": "깔끔한 스도쿠. 5단계 난이도.",
       "descEn": "A clean Sudoku in five levels.",
       "iconUrl": "https://puddingnote.github.io/sudoku/icon.png",
-      "released": false
+      "released": true
     },
     {
       "id": "queens",
