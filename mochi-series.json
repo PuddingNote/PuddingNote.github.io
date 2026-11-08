@@ -29,11 +29,8 @@
       "descKo": "빙글빙글 도는 말랑이에 롤리팝을 콕콕!",
       "descEn": "Poke the spinning mochi!",
       "iconUrl": "https://puddingnote.github.io/mochipoke/icon.png",
-      "released": false
-    }
-  ],
-  "_hidden":
-  [
+      "released": true
+    },
     {
       "id": "mochiescape",
       "package": "com.onepixel.mochiescape",
@@ -43,7 +40,10 @@
       "descEn": "Slide squished-in mochi out through same-color doors!",
       "iconUrl": "https://puddingnote.github.io/mochiescape/icon.png",
       "released": false
-    },
+    }
+  ],
+  "_hidden":
+  [
     {
       "id": "mochibounce",
       "package": "com.onepixel.mochibounce",
