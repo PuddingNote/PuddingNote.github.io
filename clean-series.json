@@ -20,10 +20,7 @@
       "descEn": "One queen in every color region.",
       "iconUrl": "https://puddingnote.github.io/queens/icon.png",
       "released": false
-    }
-  ],
-  "_hidden":
-  [
+    },
     {
       "id": "links",
       "package": "com.onepixel.links",
@@ -53,7 +50,10 @@
       "descEn": "A calm maze. Find your way.",
       "iconUrl": "https://puddingnote.github.io/maze/icon.png",
       "released": false
-    },
+    }
+  ],
+  "_hidden":
+  [
     {
       "id": "arrowescape",
       "package": "com.onepixel.arrowescape",
