@@ -39,7 +39,7 @@
       "descKo": "꽉 낀 말랑이를 밀어서 같은 색 문으로 쏙!",
       "descEn": "Slide squished-in mochi out through same-color doors!",
       "iconUrl": "https://puddingnote.github.io/mochiescape/icon.png",
-      "released": false
+      "released": true
     },
     {
       "id": "mochibounce",
