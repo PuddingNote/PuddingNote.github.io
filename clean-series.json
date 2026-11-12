@@ -19,7 +19,7 @@
       "descKo": "색 구역마다 퀸을 하나씩.",
       "descEn": "One queen in every color region.",
       "iconUrl": "https://puddingnote.github.io/queens/icon.png",
-      "released": false
+      "released": true
     },
     {
       "id": "links",
