@@ -29,7 +29,7 @@
       "descKo": "끊긴 선을 모두 이어요.",
       "descEn": "Connect every broken line.",
       "iconUrl": "https://puddingnote.github.io/links/icon.png",
-      "released": false
+      "released": true
     },
     {
       "id": "killersudoku",
