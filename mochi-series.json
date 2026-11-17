@@ -50,10 +50,7 @@
       "descEn": "Bounce a squishy mochi up to the sky!",
       "iconUrl": "https://puddingnote.github.io/mochibounce/icon.png",
       "released": false
-    }
-  ],
-  "_hidden":
-  [
+    },
     {
       "id": "mochislide",
       "package": "com.onepixel.mochislide",
@@ -64,5 +61,9 @@
       "iconUrl": "https://puddingnote.github.io/mochislide/icon.png",
       "released": false
     }
+  ],
+  "_hidden":
+  [
+    
   ]
 }
