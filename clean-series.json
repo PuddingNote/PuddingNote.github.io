@@ -39,7 +39,7 @@
       "descKo": "칸 묶음의 합으로 푸는 스도쿠.",
       "descEn": "Sudoku solved by cage sums.",
       "iconUrl": "https://puddingnote.github.io/killersudoku/icon.png",
-      "released": false
+      "released": true
     },
     {
       "id": "maze",
@@ -49,11 +49,8 @@
       "descKo": "차분하게 길을 찾는 미로.",
       "descEn": "A calm maze. Find your way.",
       "iconUrl": "https://puddingnote.github.io/maze/icon.png",
-      "released": false
-    }
-  ],
-  "_hidden":
-  [
+      "released": true
+    },
     {
       "id": "arrowescape",
       "package": "com.onepixel.arrowescape",
@@ -68,11 +65,15 @@
       "id": "minesweeper",
       "package": "com.onepixel.minesweeper",
       "nameKo": "지뢰찾기",
-      "nameEn": "Minesweeper",
+      "nameEn": "MineSweeper",
       "descKo": "숫자를 보고 지뢰를 피해요.",
       "descEn": "Read the numbers, avoid the mines.",
       "iconUrl": "https://puddingnote.github.io/minesweeper/icon.png",
       "released": false
     }
+  ],
+  "_hidden":
+  [
+    
   ]
 }
