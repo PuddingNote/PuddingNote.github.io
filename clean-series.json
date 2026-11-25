@@ -59,7 +59,7 @@
       "descKo": "화살표를 하나씩 빼내요.",
       "descEn": "Slide every arrow off the board.",
       "iconUrl": "https://puddingnote.github.io/arrowescape/icon.png",
-      "released": false
+      "released": true
     },
     {
       "id": "minesweeper",
