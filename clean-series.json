@@ -69,11 +69,20 @@
       "descKo": "숫자를 보고 지뢰를 피해요.",
       "descEn": "Read the numbers, avoid the mines.",
       "iconUrl": "https://puddingnote.github.io/minesweeper/icon.png",
-      "released": false
+      "released": true
     }
   ],
   "_hidden":
   [
-    
+    {
+      "id": "oneline",
+      "package": "com.onepixel.oneline",
+      "nameKo": "한붓그리기",
+      "nameEn": "OneLine",
+      "descKo": "",
+      "descEn": "",
+      "iconUrl": "https://puddingnote.github.io/oneline/icon.png",
+      "released": false
+    }
   ]
 }
