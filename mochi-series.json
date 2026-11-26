@@ -42,16 +42,6 @@
       "released": true
     },
     {
-      "id": "mochibounce",
-      "package": "com.onepixel.mochibounce",
-      "nameKo": "말랑 바운스",
-      "nameEn": "Mochi Bounce",
-      "descKo": "통통 튀는 말랑이를 타고 하늘 끝까지!",
-      "descEn": "Bounce a squishy mochi up to the sky!",
-      "iconUrl": "https://puddingnote.github.io/mochibounce/icon.png",
-      "released": false
-    },
-    {
       "id": "mochislide",
       "package": "com.onepixel.mochislide",
       "nameKo": "말랑 슬라이드",
@@ -59,6 +49,16 @@
       "descKo": "쓱 밀어서 같은 말랑이를 합쳐요!",
       "descEn": "Swipe and merge squishy mochi!",
       "iconUrl": "https://puddingnote.github.io/mochislide/icon.png",
+      "released": true
+    },
+    {
+      "id": "mochibounce",
+      "package": "com.onepixel.mochibounce",
+      "nameKo": "말랑 바운스",
+      "nameEn": "Mochi Bounce",
+      "descKo": "통통 튀는 말랑이를 타고 하늘 끝까지!",
+      "descEn": "Bounce a squishy mochi up to the sky!",
+      "iconUrl": "https://puddingnote.github.io/mochibounce/icon.png",
       "released": false
     }
   ],
